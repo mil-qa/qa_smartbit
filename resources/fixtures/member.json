@@ -1,6 +1,11 @@
 {
-  "name": "Falcão",
-  "email": "falcao@gmail.com",
+  "member": {
+    "feet_tall": 191,
+    "weight": 90,
+    "age": 26,
+    "email": "pafuncio@tester.com",
+    "name": "Pafuncio Tester"
+  },
   "enroll": {
     "plan": "Smart"
   }

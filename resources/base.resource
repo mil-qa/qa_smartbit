@@ -2,6 +2,8 @@
 Documentation                AIO resources
 
 Resource             database.resource
+Resource             services/sessions.resource
+Resource             services/students.resource
 Resource             pages/login.resource
 Resource             pages/enroll.resource
 Resource             components/nav_bar.resource
