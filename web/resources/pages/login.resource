@@ -3,8 +3,11 @@ Library    Browser
 
 *** Keywords ***
 Go To Login Page
-    New Browser      headless=False         browser=chromium
-    New Page         http://localhost:3000/
+    #* pass -v BROWSER:thebrowseryouwannatest as an argument on the terminal
+    # New Browser          headless=False         browser=${BROWSER}
+    New Browser          headless=False         browser=chromium
+    New Page             http://localhost:3000/
+    Set Viewport Size    1280                   720
 
 Fill credentials
     [Arguments]      ${email}    ${pass}

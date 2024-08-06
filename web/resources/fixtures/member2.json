@@ -1,0 +1,13 @@
+{
+  "member": {
+    "feet_tall": 174,
+    "weight": 65,
+    "age": 37,
+    "email": "fulano@tester.com",
+    "name": "Fulano Tester"
+  },
+  "enroll": {
+    "plan": "Smart"
+  },
+  "question": "Como fico monstrão?"
+}

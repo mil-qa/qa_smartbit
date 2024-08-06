@@ -1,0 +1,10 @@
+{
+  "student": {
+    "name": "Fulano",
+    "email": "fulano@smartbit.com",
+    "age": 55,
+    "feet_tall": 2.1,
+    "weight": 135
+  },
+  "help": "Como fico monstro?"
+}

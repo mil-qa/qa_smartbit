@@ -8,6 +8,7 @@ Resource             pages/login.resource
 Resource             pages/enroll.resource
 Resource             components/nav_bar.resource
 Resource             components/toaster.resource
+Resource             components/notification.resource
 Library              JSONLibrary
 
 *** Keywords ***
